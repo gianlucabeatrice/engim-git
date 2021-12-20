@@ -1,0 +1,29 @@
+nomi e tipo di variabili per memorizzare queste informazioni:
+nome e cognome dello studente
+eta 
+sesso
+indirizzo 
+codice fiscale
+possessore di green pass regolare
+presenze in ore
+assenze in ore
+giorni frequentati
+
+nel programma esiste un array con tutti i giorni frequentati a scuola 
+ogni elemento dell'array è un array di presenze per lo studente (lo riconosciamo dall'indice)
+
+scrivere una funzione che dato in inuput l'array con le presenze di tutti gli studenti e 
+lo studente restituisca il suo totale presenze
+
+var string=name
+var string=surname
+var int=age
+var char=sex
+var string=address
+var string=fiscalCode
+var bool=greenpass
+var int=presence
+var int=absence
+var bool=freq
+
+Class 
